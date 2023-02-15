@@ -1,5 +1,5 @@
 # Vagrant -or- how to code in your local computer
 
-## Create and setup your **Git** and **GitHub** account 
+## Create and setup your <code>Git</code> and <code>GitHub</code> account 
 
-==0x00-vagrant== is a *directory* containing all the steps for ==creating== and ==setting up== your ==Git== and ==GitHub== account.  
+<code>0x00-vagrant</code> is a *directory* containing all the steps for <code>creating</code> and <code>setting up</code> your <code>Git</code> and <code>GitHub</code> account.   
